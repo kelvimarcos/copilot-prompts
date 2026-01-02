@@ -24,7 +24,7 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <img src="[https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode](https://instagram.fmcz1-2.fna.fbcdn.net/v/t51.2885-19/608683501_18390703048198948_3055781974021485908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTQuYzIifQ&_nc_ht=instagram.fmcz1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QFMJUnjpJv_wvY4NV0aIMd78-zKhSYYxelTYkS-zO41AjbKrN0ASzHcVE7H3yPBRIA&_nc_ohc=EIUvS4XRq1sQ7kNvwHWEQkO&_nc_gid=ZOTSgkpi8SnlNHN_gIwdDg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfoZDeg47GXbEzQXDPr51Re9Bnexg16kimHFc2Zpn1BMhA&oe=695DD68F&_nc_sid=7a9f4b)"><br>
       </a>
     </td>
     <td colspan="3">
