@@ -35,7 +35,7 @@
     👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/kelvimarcos-me/" 
       align="center">
            <img 
             align="center" 
@@ -57,54 +57,136 @@
 <!--  -->
 
 <br/>
-<br/>
+<br/>🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Desenvolvedor(a) Front-end:
 
-## 💻 Sobre o Projeto
+Criar interfaces visuais de sites e aplicações web.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Transformar layouts e protótipos em código funcional.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Garantir responsividade e acessibilidade em diferentes dispositivos.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Colaborar com designers e equipes de back-end.
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Testar e corrigir erros para melhorar a experiência do usuário.
 
-- _Exemplo_:
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+HTML, CSS e JavaScript.
 
-- [Outros pré-requisitos, se aplicável]
+Conceitos de responsividade e acessibilidade.
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Versionamento com Git/GitHub.
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+NICE-TO-HAVE (complementares):
 
-- [Lista das habilidades principais a serem desenvolvidas]
+Noções de UX/UI.
 
-  - [Subhabilidades relacionadas, se aplicável]
+Comunicação e trabalho em equipe.
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+FERRAMENTAS E TECNOLOGIAS:
 
-## 🎯 Objetivos e Resultados Esperados
+React (ou outro framework moderno).
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+VS Code.
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Figma (para integração com design).
 
-<!--START_SECTION:footer-->
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 30 minutos/semana (menos de 5h → foco no essencial, prazos estendidos)
 
-<br />
-<br />
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+Revisar HTML básico (tags, estrutura de página).
+
+Praticar CSS (cores, fontes, box model).
+
+SEMANA 3-4:
+
+Introdução ao JavaScript (variáveis, funções).
+
+Exercícios simples de manipulação do DOM.
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Criar páginas responsivas com Flexbox e Grid.
+
+Usar GitHub para versionar código.
+
+SEMANA 7-8:
+
+Introdução a React (componentes, props).
+
+Criar pequenos componentes reutilizáveis.
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Montar um projeto completo (landing page interativa).
+
+Aplicar boas práticas de acessibilidade.
+
+SEMANA 11-12:
+
+Publicar o projeto no GitHub Pages ou Vercel.
+
+Simular entrevistas técnicas com perguntas básicas de Front-end.
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Landing Page Interativa para um curso online.
+
+O QUE FAZER:  
+Criar uma página responsiva com formulário de inscrição, seções de conteúdo e design atraente.
+
+ENTREGÁVEIS:
+
+Página completa em HTML/CSS/JS.
+
+Responsividade para mobile e desktop.
+
+Deploy online (GitHub Pages ou Vercel).
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Funciona em diferentes dispositivos.
+
+Código organizado e versionado no GitHub.
+
+Formulário funcional (mesmo que simples).
+
+DICA: Use seu background de design gráfico para criar uma identidade visual marcante.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: O que é HTML e para que serve?
+COMO RESPONDER: Explique que é a linguagem de marcação usada para estruturar conteúdo na web.
+
+PERGUNTA 2: Qual a diferença entre id e class no CSS?
+COMO RESPONDER: id é único, class pode ser reutilizada em vários elementos.
+
+PERGUNTA 3: O que é responsividade?
+COMO RESPONDER: Capacidade de adaptar o layout para diferentes tamanhos de tela.
+
+PERGUNTA 4: Como funciona o versionamento com Git?
+COMO RESPONDER: Permite salvar versões do código, colaborar e reverter mudanças.
+
+PERGUNTA 5: O que são componentes em React?
+COMO RESPONDER: São blocos reutilizáveis de código que representam partes da interface.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Front-end Developer
+
+POR QUE ESSA TRILHA:  
+Ela cobre HTML, CSS, JavaScript e React, exatamente os pilares que você precisa para consolidar sua transição de carreira.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me.
+
+Busque por "Formação Front-end Developer".
+
+Inscreva-se gratuitamente.
+
+Siga o cronograma junto com este roadmap.
